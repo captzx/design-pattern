@@ -1,2 +1,1 @@
-add_subdirectory(1_sample_factory)
-add_subdirectory(2_abstract_factory)
+add_subdirectory(1_factory_pattern)
