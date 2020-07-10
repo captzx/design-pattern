@@ -1,4 +1,4 @@
-#include "2_abstract_factory_method.h"
+#include "abstract_factory_method.h"
 
 AbstractProductPtr FactoryMethod1::CreateProduct(ProductType type) {
 	switch (type)

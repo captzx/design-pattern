@@ -1,4 +1,4 @@
-#include "1_simple_static_factory.h"
+#include "simple_static_factory.h"
 
 AbstractProductPtr Factory::CreateProduct(ProductType type) {
 	switch (type)

@@ -1,1 +1,2 @@
-add_subdirectory(1_factory_pattern)
+add_subdirectory(singleton_pattern)
+add_subdirectory(factory_pattern)

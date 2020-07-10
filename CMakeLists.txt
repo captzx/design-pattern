@@ -14,4 +14,4 @@ set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)
 
 add_subdirectory(cretional_pattern)
 # add_subdirectory(structural_pattern)
-# add_subdirectory(behavioral_pattern)
+add_subdirectory(behavioral_pattern)
